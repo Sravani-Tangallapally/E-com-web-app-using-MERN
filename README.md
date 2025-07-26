@@ -24,7 +24,7 @@
 - Redux Toolkit
 - React Router
 - Axios
-- Tailwind CSS / Bootstrap (if used)
+- Tailwind CSS 
 
 ### Backend
 - Node.js
